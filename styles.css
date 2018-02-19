@@ -21,7 +21,7 @@ p {
 
 .columns {
 	column-count: 3;
-	column-gap: 40px;
+	column-gap: 20px;
 	column-rule-style: solid;
 	column-rule-width: 1px;
 }
@@ -29,7 +29,7 @@ p {
 h3 {
 	font-family: BaskOldFace;
 	text-align: left;
-	font-size: 12px;
+	font-size: 25px;
 	color: black;
 	line-height: 10px;
 }
