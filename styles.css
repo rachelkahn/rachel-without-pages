@@ -10,6 +10,13 @@ h1 {
     text-align: center;
 }
 
+p {
+	font-family: BaskOldFace;
+	text-align: left;
+	font-size: 50px;
+	color: white;
+}
+
 .imageContainer2 > img:hover {
   width: 800px;
   height: 500px;
