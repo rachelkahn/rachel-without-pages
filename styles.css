@@ -45,7 +45,7 @@ h3 {
 	line-height: 40px;
 }
 
-.imageContainer2 > img:click {
+.imageContainer2 > img:hover {
   width: 800px;
   height: 500px;
   padding: 70px;
