@@ -25,14 +25,15 @@ p {
 	column-rule-style: white;
 	column-rule-width: 0px;
 	Column-width: 10px;
+	column-length: 30px;
 }
 
 h3 {
 	font-family: BaskOldFace;
 	text-align: left;
-	font-size: 25px;
+	font-size: 35px;
 	color: black;
-	line-height: 30px;
+	line-height: 50px;
 }
 
 .imageContainer2 > img:hover {
