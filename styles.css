@@ -19,6 +19,14 @@ p {
 	margin-right: 15px;
 }
 
+h3 {
+	font-family: BaskOldFace;
+	text-align: left;
+	font-size: 60px;
+	color: white;
+	line-height: 10px;
+}
+
 .imageContainer2 > img:hover {
   width: 800px;
   height: 500px;
