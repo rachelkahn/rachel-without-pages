@@ -20,11 +20,11 @@ p {
 }
 
 .columns {
-	column-count: 2;
+	column-count: 3;
 	column-gap: 20px;
 	column-rule-style: white;
 	column-rule-width: 0px;
-	Column-width: 20px;
+	Column-width: 10px;
 }
 
 h3 {
