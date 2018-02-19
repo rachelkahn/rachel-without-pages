@@ -28,6 +28,16 @@ h1 {
 	margin-right: 15px;	
 }
 
+.p3{
+	font-family: BaskOldFace;
+	text-align: right;
+	font-size: 70px;
+	color: black;
+	line-height: 15px;
+	margin-right: 15px;	
+	padding-top: 100px;
+}
+
 .columns {
 	column-count: 3;
 	column-gap: 20px;
