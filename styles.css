@@ -22,8 +22,9 @@ p {
 .columns {
 	column-count: 3;
 	column-gap: 20px;
-	column-rule-style: solid;
-	column-rule-width: 1px;
+	column-rule-style: white;
+	column-rule-width: 0px;
+	Column-width: 45px;
 }
 
 h3 {
