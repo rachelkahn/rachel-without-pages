@@ -19,6 +19,13 @@ p {
 	margin-right: 15px;
 }
 
+.columns {
+	column-count: 3;
+	column-gap: 40px;
+	column-rule-style: solid;
+	column-rule-width: 1px;
+}
+
 h3 {
 	font-family: BaskOldFace;
 	text-align: left;
@@ -41,5 +48,6 @@ h3 {
 .imageContainer3 > img:hover {
   width: 800px;
   height: 500px;
+  padding: 70px;
 }
 
