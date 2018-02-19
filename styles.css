@@ -1,11 +1,13 @@
 body {
-    background-color: lightblue;
+    background-color: lightpink;
 }
 
 h1 {
-	font-family: courier;
-    color: black;
-    text-align: left;
+	font-family: Amanda-Bold;
+	font-size: 18px;
+	font-weight: light;
+    color: red;
+    text-align: center;
 }
 
 p {
