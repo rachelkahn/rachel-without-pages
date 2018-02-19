@@ -15,6 +15,16 @@ h1 {
   height: 500px;
 }
 
+.imageContainer > img:hover {
+  width: 500px;
+  height: 800px;
+}
+
+.imageContainer3 > img:hover {
+  width: 800px;
+  height: 500px;
+}
+
 p {
     font-family: cooperblack;
     font-size: 20px;
