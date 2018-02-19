@@ -10,13 +10,22 @@ h1 {
     text-align: center;
 }
 
-p {
+.p1 {
 	font-family: BaskOldFace;
 	text-align: left;
 	font-size: 60px;
 	color: black;
 	line-height: 10px;
 	margin-left: 15px;
+}
+
+.p2{
+	font-family: BaskOldFace;
+	text-align: right;
+	font-size: 60px;
+	color: black;
+	line-height: 10px;
+	margin-right: 15px;	
 }
 
 .columns {
