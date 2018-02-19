@@ -20,7 +20,7 @@ p {
 }
 
 .columns {
-	column-count: 3;
+	column-count: 2;
 	column-gap: 20px;
 	column-rule-style: white;
 	column-rule-width: 0px;
