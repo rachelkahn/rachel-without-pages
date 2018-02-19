@@ -49,6 +49,7 @@ h3 {
   width: 800px;
   height: 500px;
   padding: 70px;
+  border-image: left;
 }
 
 .imageContainer > img:hover {
