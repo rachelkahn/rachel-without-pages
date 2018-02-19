@@ -10,7 +10,7 @@ h1 {
     text-align: center;
 }
 
-.imageContainer > img:hover {
+.imageContainer2 > img:hover {
   width: 800px;
   height: 500px;
 }
