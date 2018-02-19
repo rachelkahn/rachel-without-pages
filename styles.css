@@ -12,11 +12,11 @@ h1 {
 
 p {
 	font-family: BaskOldFace;
-	text-align: right;
+	text-align: left;
 	font-size: 60px;
 	color: black;
 	line-height: 10px;
-	margin-right: 15px;
+	margin-left: 15px;
 }
 
 .columns {
