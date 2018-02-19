@@ -33,7 +33,7 @@ h3 {
 }
 
 .imageContainer > img:hover {
-  width: 200px;
+  width: 300px;
   height: 600px;
 }
 
