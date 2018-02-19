@@ -15,6 +15,7 @@ p {
 	text-align: right;
 	font-size: 60px;
 	color: white;
+	line-height: 50px;
 }
 
 .imageContainer2 > img:hover {
