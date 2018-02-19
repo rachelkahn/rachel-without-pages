@@ -79,10 +79,10 @@ h3 {
 
 .imageContainer5 > img:hover {
   width: 700px;
-  height: 500px;
+  height: 800px;
 }
 
 .imageContainer6 > img:hover {
-  width: 450px;
-  height: 700px;
+  width: 700px;
+  height: 450px;
 }
