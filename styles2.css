@@ -36,5 +36,5 @@ p{
 }
 
 .hover:hover{
-	font-family: NoeDisplay-Bold;
+	color: red;
 }
