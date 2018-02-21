@@ -38,3 +38,8 @@ p{
 .hover:hover{
 	color: #FF8C00;
 }
+
+.1 > img:hover {
+  width: 100px;
+  height: 70px;
+}
