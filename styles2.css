@@ -16,13 +16,14 @@ h3{
 }
 
 p{
-	font-family: SourceSansPro-Regular;
-	font-size: 70px;
-	line-height: 75px;
+	font-family: SourceSansPro-Bold;
+	font-size: 100px;
+	line-height: 105px;
 	text-align: center;
 	margin: 20px;
 }
 
 .column{
-	column
+	column-count: 1;
+	column-width; 20px;
 }
