@@ -23,7 +23,12 @@ h3{
 
 p{
 	font-family: SourceSansPro-Regular;
-	font-size: 12px;
+	font-size: 20px;
+	line-height: 20px;
 	text-align: center;
 	margin: 5px;
+}
+
+.chapter1{
+	padding-top: 10px;
 }
