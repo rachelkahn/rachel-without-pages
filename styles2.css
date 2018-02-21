@@ -1,5 +1,5 @@
 h1{
-	font-family: BrownBold;
+	font-family: SourceSansPro-Bold;
 	text-align: center;
 	color: black;
 	font-size: 30px;
@@ -7,16 +7,23 @@ h1{
 }
 
 h2{
-	font-family: BrownBold;
+	font-family: SourceSansPro-Bold;
 	font-size: 20px;
 	text-align: center;
 }
 
 h3{
-	font-size: BrownRegular;
+	font-size: SourceSansPro-Regular;
 	font-size: 10px;
 	text-align: center;
 }
 .padding{
 	padding: 20px;
+}
+
+p{
+	font-family: SourceSansPro-Regular;
+	font-size: 12px;
+	text-align: center;
+	margin: 5px;
 }
