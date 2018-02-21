@@ -29,3 +29,7 @@ p{
 	border-collapse: collapse;
 	column-gap: 100px;
 }
+
+.hover:hover{
+	color: blue;
+}
