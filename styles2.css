@@ -53,10 +53,6 @@ p{
 
 div#line1 span#a {
         display:inline;
-      	font-family: SourceSansPro-Bold;
-		font-size: 150px;
-		line-height: 160px;
-		text-align: center;
 }
 div#line1:hover span#a {
         display:none;
@@ -66,10 +62,6 @@ div#line1 span#b {
 }
 div#line1:hover span#b {
         display:inline;
-        font-size: 50px;
-        cursor: default;
-        font-family: SourceSansPro-Bold;
-		text-align: center;
 }
 
 
