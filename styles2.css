@@ -29,7 +29,7 @@ p{
 }
 
 .column{
-	column-count: 1;
+	column-count: 2;
 	column-width: 20px;
 	border-collapse: collapse;
 	column-gap: 100px;
