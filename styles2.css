@@ -42,4 +42,5 @@ p{
 .1 > img:hover {
   width: 100px;
   height: 70px;
+  cursor: arrow;
 }
