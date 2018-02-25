@@ -62,18 +62,10 @@ div#line1 span#b {
 }
 div#line1:hover span#b {
         display:inline;
+        font-size: 20px;
 }
 
 
-/*#copyright:hover {
-    content: attr(data-hover);
-}*/
-#number:hover span{
-  display: none;
-}
-#number:hover:after{
-  content: attr(data-hover);
-}
 
 
 
