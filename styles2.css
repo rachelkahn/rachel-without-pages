@@ -51,12 +51,18 @@ p{
 
 
 
-button .comment { display: none; }
-button:hover .number { display: none; }
-button:hover .name { display: inline; }
-
-
-
+div#line1 span#a {
+        display:inline;
+}
+div#line1:hover span#a {
+        display:none;
+}
+div#line1 span#b {
+        display:none;
+}
+div#line1:hover span#b {
+        display:inline;
+}
 
 
 
