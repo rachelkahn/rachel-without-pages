@@ -48,3 +48,22 @@ p{
 .custom {
   cursor: url(foot.png), auto;
 }
+
+
+
+button .comment { display: none; }
+button:hover .number { display: none; }
+button:hover .name { display: inline; }
+
+
+
+
+
+
+
+
+
+
+
+
+
