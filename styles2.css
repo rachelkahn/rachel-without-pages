@@ -63,6 +63,7 @@ div#line1 span#b {
 div#line1:hover span#b {
         display:inline;
         font-size: 20px;
+        cursor: default;
 }
 
 
