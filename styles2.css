@@ -29,14 +29,14 @@ p{
 }
 
 .column{
-	column-count: 2;
+	column-count: 1;
 	column-width: 20px;
 	border-collapse: collapse;
 	column-gap: 100px;
 }
 
 .hover:hover{
-	color: #FF8C00;
+	color: blue;
 }
 
 .1 > img:hover {
