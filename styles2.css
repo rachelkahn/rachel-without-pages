@@ -65,7 +65,15 @@ div#line1:hover span#b {
 }
 
 
-
+/*#copyright:hover {
+    content: attr(data-hover);
+}*/
+#number:hover span{
+  display: none;
+}
+#number:hover:after{
+  content: attr(data-hover);
+}
 
 
 
