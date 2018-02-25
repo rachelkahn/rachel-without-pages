@@ -50,22 +50,13 @@ p{
 }
 
 
-
-div#line1 span#a {
-        display:inline;
-}
-div#line1:hover span#a {
-        display:none;
-}
-div#line1 span#b {
-        display:none;
-}
-div#line1:hover span#b {
-        display:inline;
-}
-
-.image{
-	align: center;
+.zoom {
+    padding: 50px;
+    background-color: green;
+    transition: transform .2s; /* Animation */
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
 }
 
 
