@@ -15,6 +15,14 @@
 $("button").click(function(){
     $("p").text("Hello world!");
 });
+
+
+var button = $("button");
+button.on("click", function() {
+  button.data("text-original", button.text());
+  button.text(button.data("text-swap"));
+});
+
 </script>
 
 <div id="line1">
