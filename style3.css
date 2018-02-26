@@ -10,3 +10,9 @@
     padding: 50px;
     display: none;
 }
+.number{
+	font-family: SourceSansPro-Bold;
+	font-size: 150px;
+	line-height: 160px;
+	text-align: center;
+}
