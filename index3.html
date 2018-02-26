@@ -1,39 +1,81 @@
 <!DOCTYPE html>
 <html>
 <head>
-<link rel="stylesheet" href="style3.css">
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-<script>
-$(document).ready(function(){
-    $("#hide").click(function(){
-        $("p").hide();
-    });
-    $("#show").click(function(){
-        $("p").show();
-    });
-});
-</script>
-</head>
-<body>
-
-<div class="info">
-<p>Fehlbaum-Hermann Miller international collection</p>
-</div>
-
-<button id="hide">less</button>
-<button id="show">info</button>
-
-</body>
-</html>
-
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-#info{
-    font-family: SourceSansPro-Bold;
-    font-size: 30px;
-    text-align: center;
+.container {
+  position: relative;
+  width: 50%;
 }
 
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
 
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: #blue;
+}
 
+.container:hover .overlay {
+  opacity: 1;
+}
+
+.text {
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
 </style>
+</head>
+
+
+
+
+<body>
+
+<h2>Fade in Overlay</h2>
+<p>Hover over the image to see the effect.</p>
+
+<div class="container">
+  <img src="1.png" alt="Avatar" class="image">
+  <div class="overlay">
+    <div class="text">Fehlbaum-Hermann Miller</br>international collection</div>
+  </div>
+</div>
+
+<div class="container">
+  <img src="2.png" alt="Avatar" class="image"><p>1960</p>
+  <div class="overlay">
+    <div class="text">Fehlbaum-Hermann Miller</br>international collection</div>
+  </div>
+</div>
+
+</body>
+
+
+
+
+
+
+
+
+
+
+
+</html>
