@@ -1,65 +1,33 @@
+<!DOCTYPE html>
 <html>
-    <head>
+<head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script> 
+$(document).ready(function(){
+    $("#flip").click(function(){
+        $("#panel").slideDown("slow");
+    });
+});
+</script>
+ 
+<style> 
+#panel, #flip {
+    padding: 5px;
+    text-align: center;
+    background-color: #e5eecc;
+    border: solid 1px #c3c3c3;
+}
 
-    <link rel="stylesheet" href="http://reallysimpleworks.com/slideshow/demo/css/style.css">
-    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-    <script src="http://reallysimpleworks.com/slideshow/demo/js/jquery.rs.slideshow.js?v1.4.10"></script>
-
-    <script type="text/javascript">
-
-            $(document).ready(function () {
-
-                var opts = {
-                    controls: {
-                        playPause: {auto: false},
-                        previousSlide: {auto: false},
-                        nextSlide: {auto: false},
-                        index: {auto: false}
-                    },
-                    slide_data_selectors: {
-                        caption: {selector: 'div.caption', attr: false}
-                    },
-                    effect: 'slideLeft',
-                    interval: 4, 
-                    transition: 500
-                };
-                $('.rs-slideshow').rsfSlideshow(opts);
-
-                $('a.open_in_new_window').attr('target', '_blank');
-
-
-            });     
-
-    </script>
-
-
+#panel {
+    padding: 50px;
+    display: none;
+}
+</style>
 </head>
-
 <body>
-
-        <div class="main">
-            <section class="demo-section clearfix" id="demo-1">
-                <div id="slideshow-capts-links" class="rs-slideshow">
-                    <div class="slide-container" style="">
-                        <img src="http://reallysimpleworks.com/slideshow/demo/images/morzine-2011-a.png" class="rsf-slideshow-image" style="left: 0px; top: 0px; ">
-                            <div class="slide-caption">This is a caption for the first slide.</div>
-                    </div>
-                    <ol class="slides">
-                        <li>
-                            <a href="http://reallysimpleworks.com/slideshow/demo/images/morzine-2011-a.png" ></a>
-                        </li>
-                        <li>
-                            <a class="open_in_new_window" href="http://reallysimpleworks.com/slideshow/demo/images/morzine-2011-b.png" data-link-to="http://reallysimpleworks.com"></a>
-                                <div class="caption">
-                                                <p>This slide has the hyperlink</p>
-                                </div>
-                        </li>
-                        <li>
-                            <a href="http://reallysimpleworks.com/slideshow/demo/images/morzine-2011-c.png"></a>
-                        </li>
-                    </ol>
-            </section>      
-        </div>
+ 
+<div id="flip">Click to slide down panel</div>
+<div id="panel">Hello world!</div>
 
 </body>
 </html>
