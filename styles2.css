@@ -47,6 +47,10 @@ p{
   cursor: url(foot.png), auto;
 }
 
+.imageContainer > img:hover {
+  width: 450px;
+  height: 700px;
+}
 
 
 
