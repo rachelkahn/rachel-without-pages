@@ -1,25 +1,33 @@
 <!DOCTYPE html>
 <html>
-<link rel="stylesheet" href="styles3.css">
-
 <head>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-<script> 
+<script>
 $(document).ready(function(){
-    $("#flip").click(function(){
-        $("#panel").slideDown("slow");
+    $("#hide").click(function(){
+        $("p").hide();
+    });
+    $("#show").click(function(){
+        $("p").show();
     });
 });
 </script>
- 
-
 </head>
 <body>
-    
-    <div id="flip">1960</div>
 
+<p>Fehlbaum-Hermann Miller international collection</p>
 
-<div id="panel">Fehlbaum-Hermann Miller international collection></div>
+<button id="hide">less</button>
+<button id="show">more</button>
 
 </body>
 </html>
+
+<style>
+#p{
+    font-family: SourceSansPro-Bold;
+    font-size: 30px;
+    text-align: center;
+}
+
+</style>
