@@ -85,7 +85,10 @@ p{
 
 
 
-
+.hover > img:hover {
+  width: 450px;
+  height: 700px;
+}
 
 
 
