@@ -97,9 +97,9 @@ p{
 }
 
 .foot{
-	 position: absolute;
-    top: 0px;
-    right: 0px;
+	position: absolute;
+    top: 8px;
+    right: 16px;
 }
 
 
