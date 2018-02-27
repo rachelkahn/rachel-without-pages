@@ -97,7 +97,7 @@ p{
 }
 
 .gallery{
-	display: block;
+	position: absolute;
     margin: 30px;
     width: 30px;
     height: 50px;
