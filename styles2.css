@@ -90,9 +90,13 @@ p{
   height: 700px;
 }
 
-
-
-
+.gallery{
+	position: absolute;
+	margin-right: 50%;
+	margin-left: 50%;
+	width: 70px;
+	height: 100px;
+}
 
 
 
