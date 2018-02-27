@@ -105,8 +105,8 @@ p{
 
 .foot{
 	position: absolute;
-    right: 5;
-    top: 5;
+    right: 0;
+    top: 0;
     display: block;
 }
 
