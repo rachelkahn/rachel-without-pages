@@ -1,6 +1,6 @@
-.background{
-	color: orange;
-}
+body {background-color: orange;}
+
+
 .A{
 position: absolute;
 margin-right: 3px;
