@@ -1,4 +1,35 @@
 
-.imagecontainer2{
-	
+.A{
+position: absolute;
+margin-right: 3px;
+}
+
+.B{
+position: absolute;
+margin-top: 100px;
+}
+
+.C{
+position: absolute;
+margin-right: 80px;
+}
+
+.D{
+position: absolute;
+margin-left: 10px;
+}
+
+.E{
+position: absolute;
+margin-bottom: 100px;
+}
+
+.F{
+position: absolute;
+margin-right: 3px;
+}
+
+.G{
+position: absolute;
+margin-right: 3px;
 }
