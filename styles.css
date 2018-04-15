@@ -10,8 +10,9 @@ height: auto;
 .B{
 position: absolute;
 margin-top: 100px;
-width: 5px;
+width: 2px;
 height: auto;
+margin-right: 0px;
 }
 
 .C{
@@ -33,6 +34,7 @@ position: absolute;
 margin-bottom: 100px;
 width: 3px;
 height: auto;
+margin-right: 0px;
 }
 
 .F{
