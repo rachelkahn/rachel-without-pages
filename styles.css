@@ -1,32 +1,4 @@
 
-.imageContainer2 > img:hover {
-  width: 800px;
-  height: 500px;
-  padding: 70px;
-}
-
-.imageContainer > img:hover {
-  width: 450px;
-  height: 700px;
-}
-
-.imageContainer3 > img:hover {
-  width: 800px;
-  height: 500px;
-  padding: 70px;
-}
-
-.imageContainer4 > img:hover {
-  width: 450px;
-  height: 700px;
-}
-
-.imageContainer5 > img:hover {
-  width: 700px;
-  height: 800px;
-}
-
-.imageContainer6 > img:hover {
-  width: 1100px;
-  height: 300px;
+.imagecontainer2{
+	
 }
