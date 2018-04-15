@@ -3,48 +3,48 @@ body {background-color: orange;}
 
 .A{
 position: absolute;
-width: 30px;
+width: 2px;
 height: auto;
 }
 
 .B{
 position: absolute;
 margin-top: 100px;
-width: 10px;
+width: 5px;
 height: auto;
 }
 
 .C{
 position: absolute;
 margin-right: 80px;
-width: 20px;
+width: 3px;
 height: auto;
 }
 
 .D{
 position: absolute;
 margin-left: 10px;
-width: 10px;
+width: 4px;
 height: auto;
 }
 
 .E{
 position: absolute;
 margin-bottom: 100px;
-width: 30px;
+width: 3px;
 height: auto;
 }
 
 .F{
 position: absolute;
 margin-right: 3px;
-width: 10px;
+width: 7px;
 height: auto;
 }
 
 .G{
 position: absolute;
 margin-right: 3px;
-width: 15px;
+width: 5px;
 height: auto;
 }
