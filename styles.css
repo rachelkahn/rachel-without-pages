@@ -10,21 +10,21 @@ height: auto;
 .B{
 position: absolute;
 margin-top: 100px;
-width: 30px;
+width: 10px;
 height: auto;
 }
 
 .C{
 position: absolute;
 margin-right: 80px;
-width: 30px;
+width: 20px;
 height: auto;
 }
 
 .D{
 position: absolute;
 margin-left: 10px;
-width: 30px;
+width: 10px;
 height: auto;
 }
 
@@ -45,6 +45,6 @@ height: auto;
 .G{
 position: absolute;
 margin-right: 3px;
-width: 30px;
+width: 15px;
 height: auto;
 }
