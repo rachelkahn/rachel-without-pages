@@ -7,3 +7,10 @@ width: 6px;
 height: auto;
 padding-right: 5px;
 }
+
+.title{
+	position: relative;
+	padding-right: 50%;
+	padding-left: 50%;
+	padding-top: 10px;
+}
