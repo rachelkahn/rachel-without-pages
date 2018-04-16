@@ -2,7 +2,8 @@ body {background-color: orange;}
 
 
 .A{
-position: absolute;
-width: 2px;
+position: relative;
+width: 5px;
 height: auto;
+margin-right: 5px;
 }
