@@ -3,16 +3,16 @@ body {background-color: orange;}
 
 .A{
 position: relative;
-width: 2px;
+width: 1px;
 height: auto;
 padding-right: 5px;
 }
 
 .logo{
-	position: relative;
+	position: absolute;
 	padding-right: 50%;
 	padding-left: 50%;
 	padding-top: 10px;
-	width: 2px;
+	width: 1px;
 	height: auto;
 }
