@@ -49,16 +49,15 @@ padding-right: 5px;
 }
 
 h1{
-	font-family: Baskerville;
+	font-family: Baskerville-Regular;
 	font-size: 60px;
-	line-height: 70px;
 }
 
 p{
 	font-family: Baskerville;
 	font-size: 60px;
-	margin-right: 20%;
-	margin-left: 20%;
+	margin-right: 10%;
+	margin-left: 10%;
 }
 
 	font-family: SourceSansPro-Bold;
