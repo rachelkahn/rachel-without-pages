@@ -35,14 +35,14 @@ padding-right: 5px;
 }
 
 .drake{
-	position: absolute;
+	position: relative;
 	top: 30px;
 	padding-left: 50%;
 	padding-bottom: 40px;
 }
 
 .james{
-	position: absolute;
+	position: relative;
 	top: 30px;
 	padding-left: 20%;
 	padding-bottom: 40px;
