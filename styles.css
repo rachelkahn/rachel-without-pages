@@ -61,8 +61,10 @@ p{
 }
 
 h2{
-	font-family: Baskerville;
-	font-size: 60px;
+	font-size: 20px;
+	top: 40px;
+	left: 50%;
+	right: 50%;
 }
 
 
