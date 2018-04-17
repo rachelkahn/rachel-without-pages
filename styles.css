@@ -58,10 +58,11 @@ padding-right: 5px;
 }
 
 h3{
+	position: absolute;
 	font-family: Baskerville-Regular;
 	font-size: 150px;
-	margin-left: 10%;
-	margin-right: 10%;
+	margin-left: 20%;
+	margin-right: 20%;
 }
 
 p{
