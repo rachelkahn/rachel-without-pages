@@ -16,3 +16,22 @@ padding-right: 5px;
 	width: 1px;
 	height: auto;
 }
+
+.submit{
+	font-family: Brown-Bold;
+	font-size: 10px;
+	position: absolute;
+	padding-right: 0px;
+	color: black;
+}
+
+.about{
+	font-family: Brown-Bold;
+	font-size: 10px;
+	position: absolute;
+	padding-top: 0px;
+	color: black;
+
+}
+
+
