@@ -48,7 +48,7 @@ padding-right: 5px;
 	padding-right: 50%;
 }
 
-h1{
+h3{
 	font-family: Baskerville-Regular;
 	font-size: 60px;
 }
@@ -60,11 +60,9 @@ p{
 	margin-left: 10%;
 }
 
-	font-family: SourceSansPro-Bold;
-	font-size: 150px;
-	line-height: 160px;
-	text-align: center;
-	margin: 20px;
+h2{
+	font-family: Baskerville;
+	font-size: 60px;
 }
 
 
