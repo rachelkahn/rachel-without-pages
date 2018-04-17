@@ -63,11 +63,17 @@ p{
 h2{
 	font-size: 20px;
 	top: 40px;
-	left: 50%;
-	right: 50%;
 }
 
+.t1{
+	top: 20px;
+	padding-left: 20%;
+}
 
+.t2{
+	top: 50px;
+	padding-left: 70%;
+}
 
 
 
