@@ -2,9 +2,7 @@ body {background-color: orange;}
 
 
 .A{
-position: relative;
-width: 1px;
-height: auto;
+position: absolute;
 padding-right: 5px;
 }
 
