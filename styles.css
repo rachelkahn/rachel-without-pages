@@ -16,17 +16,18 @@ position: absolute;
 
 .submit{
 	font-family: Brown-Bold;
-	font-size: 10px;
-	position: absolute;
-	padding-right: 0px;
+	font-size: 20px;
+	padding-right: 3px;
+	padding-left: 11%;
 	color: black;
 }
 
 .articles{
 	font-family: Brown-Bold;
-	font-size: 10px;
+	font-size: 20px;
 	position: absolute;
-	padding-top: 0px;
+	padding-top: 12px;
+	padding-left: 30%;
 	color: black;
 
 }
