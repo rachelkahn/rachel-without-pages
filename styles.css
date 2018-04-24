@@ -116,6 +116,7 @@ img:hover{
 }
 
 .E{
+	position: relative;
 	padding-right: 10%;
 	padding-top: 40%;
 }
@@ -123,7 +124,7 @@ img:hover{
 .1{
 	width: 400px;
 	height: auto;
-	position: absolute;
+	position: relative;
 	margin-right:50%;
 	margin-left:50%:;
 }
