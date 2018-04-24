@@ -22,6 +22,14 @@ position: absolute;
 	color: black;
 }
 
+.about{
+	font-family: Brown-Bold;
+	font-size: 20px;
+	padding-right: 4px;
+	padding-left: 33%;
+	color: black;
+}
+
 .articles{
 	font-family: Brown-Bold;
 	font-size: 20px;
