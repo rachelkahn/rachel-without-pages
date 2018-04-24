@@ -84,12 +84,12 @@ a:hover {
 }
 
 .A{
-	padding-right: 90%;
+	padding-left: 10%;
 }
 
 .B{
 	padding-right: 0%;
-	padding-top: 20%;
+	padding-top: 5%;
 }
 
 .C{
@@ -102,15 +102,10 @@ a:hover {
 }
 
 .E{
-	padding-right: 10%;
-	padding-top: 40%;
+	padding-right: 20%;
+	padding-top: 10%;
 }
 
-.1{
-	width: 400px;
-	height: auto;
-	margin-right:50%;
-	margin-left:50%:;
-}
+
 
 
