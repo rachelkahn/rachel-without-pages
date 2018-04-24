@@ -68,16 +68,16 @@ h2{
 }
 
 .list{
-	font-family: BrownBold;
-	font-size: 50px;
-	margin-right: 20%;
-	margin-left: 20%;
+	font-family: Baskerville-Regular;
+	font-size: 100px;
+	margin-left: 10%;
+	margin-right: 10%;
 	position: absolute;
 	color: black;
 
 }
 a:hover {
-  	text-shadow: 0 0 5px #ff0000; }
+  	color: red;
 }
 }a:hover {
     text-decoration: none;
