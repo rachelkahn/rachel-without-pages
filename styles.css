@@ -93,9 +93,31 @@ img:hover{
 }
 
 
+.A{
+position: absolute;
+}
 
+.B{
+	position: absolute;
+	padding-right: 0%;
+}
 
+.C{
+	position: absolute;
+	padding-top: 20%;
+	padding-left: 15%;
+}
 
+.D{
+	position: absolute;
+	padding-left: 30%;
+}
+
+.E{
+	position: absolute;
+	padding-right: 10%;
+	padding-top: 40%;
+}
 
 
 
