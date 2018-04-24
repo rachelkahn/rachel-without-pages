@@ -117,11 +117,13 @@ a:hover {
 }
 
 .H{
+	position: absolute;
 	padding-right: 21%;
 	padding-top: 15px;
 }
 
 .I{
+	position: absolute;
 	padding-right: 17%;
 	padding-top: 18px;
 }
