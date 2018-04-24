@@ -15,6 +15,7 @@ position: absolute;
 }
 
 .submit{
+	position: absolute;
 	font-family: Brown-Bold;
 	font-size: 20px;
 	padding-right: 3px;
@@ -26,7 +27,7 @@ position: absolute;
 	position: absolute;
 	font-family: Brown-Bold;
 	font-size: 20px;
-	padding-top: 44px;
+	padding-top: 64px;
 	padding-left: 33%;
 	color: black;
 }
