@@ -121,6 +121,7 @@ a:hover {
 }
 
 .I{
+	position: absolute;
 	padding-left: 80%;
 	padding-top: 2px;
 }
