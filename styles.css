@@ -94,27 +94,26 @@ img:hover{
 
 
 .A{
-position: absolute;
+position: relative;
 }
 
 .B{
-	position: absolute;
+	position: relative;
 	padding-right: 0%;
 }
 
 .C{
-	position: absolute;
+	position: relative;
 	padding-top: 20%;
 	padding-left: 15%;
 }
 
 .D{
-	position: absolute;
+	position: relative;
 	padding-left: 30%;
 }
 
 .E{
-	position: absolute;
 	padding-right: 10%;
 	padding-top: 40%;
 }
