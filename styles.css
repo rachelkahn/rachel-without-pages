@@ -91,41 +91,16 @@ a{
 }
 a:hover {
   	color: red;
-}
-}a:hover {
-    text-decoration: none;
+  	text-decoration: none;
 }
 
-.A{
-	padding-left: 14%;
+a:active{
+	color: pink;
 }
 
-.B{
-	padding-right: 0%;
-	padding-top: 5%;
+.float, .link{
+	display:inline-block;
+	padding-left: 2rem;
 }
 
-.C{
-	padding-top: 10%;
-	padding-left: 55%;
-}
-
-.D{
-	padding-left: 30%;
-}
-
-.E{
-	padding-left: 1000px;
-	padding-top: 0%;
-}
-
-.H{
-	padding-top: 0px;
-}
-
-.I{
-	position: absolute;
-	padding-left: 80%;
-	padding-top: 2px;
-}
 
