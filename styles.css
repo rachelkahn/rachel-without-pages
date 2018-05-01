@@ -49,6 +49,9 @@ h2{
 	-webkit-filter: drop-shadow(0px 0px 8px rgba(0, 231, 255, 0.8));
 }
 
+.red:hover{
+	color: red;
+}
 
 a{
 	color:inherit;
