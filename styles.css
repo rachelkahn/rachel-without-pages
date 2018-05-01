@@ -2,7 +2,7 @@ body {background-color: white;}
 
 
 h3{
-	font-family: Brown-Bold;
+	font-family: Helvetica;
 	font-size: 100px;
 	margin-left: 10%;
 	margin-right: 10%;
@@ -18,7 +18,7 @@ p{
 
 h2{
 
-	font-family: Brown-Regular;
+	font-family: Helvetica;
 	font-size: 45px;
 	margin-left: 10%;
 	margin-right: 10%;
@@ -26,7 +26,7 @@ h2{
 }
 
 .list{
-	font-family: Brown-Bold;
+	font-family: Helvetica;
 	font-size: 100px;
 	margin-left: 10%;
 	margin-right: 10%;
